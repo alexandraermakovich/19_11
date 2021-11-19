@@ -3,6 +3,8 @@ synchronize:
   - source: .
     exclude:
       - "menu.html"
+      - "*.md"
+      - "*.ipynb"
     include:
       - "1/code_style.md"
       - "**/autodiff.ipynb"
