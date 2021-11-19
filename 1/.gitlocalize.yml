@@ -1,0 +1,6 @@
+synchronize:
+  paths:
+  - source: .
+    exclude:
+    - "1/code.md"
+    - "**/autodiff.ipynb"
