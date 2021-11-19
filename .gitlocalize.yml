@@ -2,7 +2,7 @@ synchronize:
   paths:
   - source: .
     exclude:
-    - "menu.html"
+      - "menu.html"
     include:
-    - "1/code_style.md"
-    - "**/autodiff.ipynb"
+      - "1/code_style.md"
+      - "**/autodiff.ipynb"
