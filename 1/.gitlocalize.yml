@@ -3,4 +3,4 @@ synchronize:
   - source: .
     exclude:
     - "1/code.md"
-    - "**/autodiff.ipynb"
+    - "1/2/autodiff.ipynb"
