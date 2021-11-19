@@ -2,5 +2,5 @@ synchronize:
   paths:
   - source: .
     exclude:
-    - "1/code.md"
+    - "1/code_style.md"
     - "1/2/autodiff.ipynb"
