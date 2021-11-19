@@ -2,7 +2,7 @@ synchronize:
   paths:
   - source: .
     exclude:
-      - "menu.html"
+      - "*.html"
       - "*.md"
       - "*.ipynb"
     include:
